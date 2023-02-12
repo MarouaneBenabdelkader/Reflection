@@ -4,14 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8c6023b-37bc-4ecf-9007-df59a72bf542" name="Changes" comment="" />
+    <list default="true" id="f8c6023b-37bc-4ecf-9007-df59a72bf542" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pfe/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pfe/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pfe/annotations/DataSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pfe/annotations/DataSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pfe/annotations/Id.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pfe/annotations/Id.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pfe/annotations/Rest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pfe/annotations/Rest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pfe/dataSource/IdType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pfe/dataSource/IdType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pfe/dataSource/Persistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pfe/dataSource/Persistance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pfe/dataSource/TodoDS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pfe/dataSource/TodoDS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pfe/models/Todo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pfe/models/Todo.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -30,10 +53,32 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "19",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pfe.Main" />
+      <module name="Annotations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pfe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -42,7 +87,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676148224422</updated>
+      <workItem from="1676148225604" duration="10850000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/pfe/Main.java</url>
+          <line>19</line>
+          <properties class="pfe.Main" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
